@@ -1,4 +1,11 @@
+## Hamideh Andevari
+
 ### Hi there 👋
+
+- 💻 I'm an IT Engineer.
+- 🌱 I’m studying Python, Machine Learning and Deep Learning.
+- 🤔 I'm trying to improve myself in the professional every day!
+- 📫 How to reach me:hamideh.andevari@gmail.com
 
 <!--
 **Hamideh-Andevari/hamideh-andevari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
